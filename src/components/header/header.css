@@ -1,0 +1,9 @@
+.HeaderPane {
+    background-color: blueviolet;
+    padding: 1px 0px 1px 0;
+}
+
+.HeaderTitle {
+    width: fit-content;
+    margin-left: 2rem;
+}
